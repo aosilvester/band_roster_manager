@@ -1,0 +1,43 @@
+SELECT * from players
+
+DROP TABLE IF EXISTS players;
+
+CREATE TABLE IF NOT EXISTS players(
+	id INTEGER PRIMARY KEY,
+	first_name VARCHAR(255) NOT NULL,
+	last_name VARCHAR(255) NOT NULL,
+	age INT NOT NULL,
+	phone_number VARCHAR(255) NOT NULL,
+	email VARCHAR(255) NOT NULL UNIQUE,
+	active INT NOT NULL,
+	section_type INT NOT NULL,
+	leadership_type INT NOT NULL
+)
+
+
+CREATE TABLE IF NOT EXISTS leadership_status(
+	id integer primary key,
+	type VARCHAR(255)
+)
+
+INSERT INTO leadership_status(type)
+VALUES('None'), ('Assistant Rank Leader'), ('Rank Leader'), ('Assistant Section Leader'), ('Section Leader'), ('Drum Major')
+
+CREATE TABLE IF NOT EXISTS sections(
+	id integer primary key,
+	type VARCHAR(255)
+)
+
+INSERT INTO sections(type)
+VALUES ('piccolo'), ('clarinet'), ('saxophone'), ('trumpet'), ('melophone'), ('trombone'), ('baritone'), ('tuba'), ('drumline'), ('colorguard'), ('drum major'),
+
+
+
+SELECT 
+	first_name,
+	last_name,
+	type
+FROM 
+	players
+INNER JOIN section
+	on players.section = section.id;

@@ -1,0 +1,300 @@
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Djayssen", "Bali", 17, 2043802609, "Djayssen.Bali@Bali.com", 1, 11, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jyotsna", "Murthy", 19, 3569513417, "Jyotsna.Murthy@Murthy.com", 1, 11, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Nishant", "Barad", 17, 6389110057, "Nishant.Barad@Barad.com", 1, 4, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Cooldeepac", "Kaur", 17, 8445300456, "Cooldeepac.Kaur@Kaur.com", 1, 11, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Bala", "Krishnan", 19, 7534634899, "Bala.Krishnan@Krishnan.com", 1, 7, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Meera", "Randhawa", 17, 4080584078, "Meera.Randhawa@Randhawa.com", 1, 5, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Karliaye", "Venkatesh", 18, 9060882723, "Karliaye.Venkatesh@Venkatesh.com", 1, 11, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Narayanin", "Dhingra", 17, 4400113874, "Narayanin.Dhingra@Dhingra.com", 1, 6, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Ganapati", "Kar", 19, 4706985092, "Ganapati.Kar@Kar.com", 1, 8, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Narayan", "Murty", 17, 8427234242, "Narayan.Murty@Murty.com", 1, 6, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kalyan", "Aggarwal", 18, 8723093736, "Kalyan.Aggarwal@Aggarwal.com", 1, 9, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Nila", "Narain", 17, 8582714145, "Nila.Narain@Narain.com", 1, 5, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jiva", "Pillai", 19, 3269771060, "Jiva.Pillai@Pillai.com", 1, 3, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Harinder", "Prasad", 17, 6175737202, "Harinder.Prasad@Prasad.com", 1, 2, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Mukul", "Minhas", 19, 6955129847, "Mukul.Minhas@Minhas.com", 1, 6, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jaidev", "Kade", 18, 7502298750, "Jaidev.Kade@Kade.com", 1, 9, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jivan", "Balakrishnan", 18, 4244798853, "Jivan.Balakrishnan@Balakrishnan.com", 1, 11, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Anand", "Merchant", 17, 5056490921, "Anand.Merchant@Merchant.com", 1, 4, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Anandi", "Shetty", 17, 5240370269, "Anandi.Shetty@Shetty.com", 1, 8, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Darshana", "Mohan", 19, 1402610635, "Darshana.Mohan@Mohan.com", 1, 4, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Keya", "Dugar", 19, 1376343412, "Keya.Dugar@Dugar.com", 1, 11, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Gobind", "Raja", 19, 9909147088, "Gobind.Raja@Raja.com", 1, 6, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Karan", "Sawhney", 19, 6940676001, "Karan.Sawhney@Sawhney.com", 1, 6, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Mahesh", "Rajagopalan", 19, 5863040524, "Mahesh.Rajagopalan@Rajagopalan.com", 1, 1, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Anantee", "Dalal", 17, 2881040377, "Anantee.Dalal@Dalal.com", 1, 1, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Krishnin", "Upadhyay", 18, 2309412222, "Krishnin.Upadhyay@Upadhyay.com", 1, 9, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Karna", "Meda", 19, 6294742349, "Karna.Meda@Meda.com", 1, 4, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Candravali", "Kapadia", 19, 5884264036, "Candravali.Kapadia@Kapadia.com", 1, 4, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jeetendra", "Dave", 19, 1961601675, "Jeetendra.Dave@Dave.com", 1, 6, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Djeyam", "Bhatia", 17, 9336720843, "Djeyam.Bhatia@Bhatia.com", 1, 4, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Aseem", "Varma", 17, 6793889360, "Aseem.Varma@Varma.com", 1, 5, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Meera", "Sahni", 18, 6498917383, "Meera.Sahni@Sahni.com", 1, 6, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kistna", "Amble", 19, 3565142520, "Kistna.Amble@Amble.com", 1, 6, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Madhur", "Kata", 17, 5254406165, "Madhur.Kata@Kata.com", 1, 4, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Aishwarya", "Chokshi", 19, 7249960760, "Aishwarya.Chokshi@Chokshi.com", 1, 9, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jyotsana", "Verma", 19, 4408442405, "Jyotsana.Verma@Verma.com", 1, 9, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Geevarghese", "Dhaliwal", 18, 6337683522, "Geevarghese.Dhaliwal@Dhaliwal.com", 1, 11, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kishore", "Mehra", 19, 5963828883, "Kishore.Mehra@Mehra.com", 1, 6, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Deva", "Bhatt", 18, 5325058066, "Deva.Bhatt@Bhatt.com", 1, 10, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Carliaye", "Boase", 19, 2071531900, "Carliaye.Boase@Boase.com", 1, 5, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Chandi", "Palla", 18, 2815577304, "Chandi.Palla@Palla.com", 1, 8, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jaswinder", "Prasad", 17, 8471015289, "Jaswinder.Prasad@Prasad.com", 1, 11, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Darshana", "Chopra", 17, 1761116945, "Darshana.Chopra@Chopra.com", 1, 2, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Mayur", "Nadig", 18, 7811044427, "Mayur.Nadig@Nadig.com", 1, 8, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Neela", "Sathe", 19, 2838653740, "Neela.Sathe@Sathe.com", 1, 7, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Madhavi", "Aggarwal", 17, 2164550456, "Madhavi.Aggarwal@Aggarwal.com", 1, 6, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kshitija", "Choudhury", 17, 9341832200, "Kshitija.Choudhury@Choudhury.com", 1, 2, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kumara", "Bumb", 18, 1333065703, "Kumara.Bumb@Bumb.com", 1, 8, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Arundhati", "Bal", 17, 2583079763, "Arundhati.Bal@Bal.com", 1, 1, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Manickam", "Kunda", 17, 3512827435, "Manickam.Kunda@Kunda.com", 1, 4, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Nirav", "Borde", 18, 8285459246, "Nirav.Borde@Borde.com", 1, 9, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Nirmal", "Khare", 17, 9541951651, "Nirmal.Khare@Khare.com", 1, 9, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Akash", "Din", 18, 2229788109, "Akash.Din@Din.com", 1, 6, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Anant", "Chand", 17, 4582916415, "Anant.Chand@Chand.com", 1, 3, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Narayan", "Pandit", 19, 8471521207, "Narayan.Pandit@Pandit.com", 1, 5, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Manish", "Kumar", 17, 3942968181, "Manish.Kumar@Kumar.com", 1, 3, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Devraj", "D’Alia", 19, 5938341095, "Devraj.D’Alia@D’Alia.com", 1, 3, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Dev", "Halder", 17, 7350889639, "Dev.Halder@Halder.com", 1, 11, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Arundhati", "Viswanathan", 19, 2911595185, "Arundhati.Viswanathan@Viswanathan.com", 1, 11, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Chandrakanta", "Nagar", 18, 3144747114, "Chandrakanta.Nagar@Nagar.com", 1, 9, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Mohinder", "Peri", 18, 9572374302, "Mohinder.Peri@Peri.com", 1, 1, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Aseem", "Yadav", 17, 7978614537, "Aseem.Yadav@Yadav.com", 1, 6, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Keshava", "Dhar", 18, 8971374979, "Keshava.Dhar@Dhar.com", 1, 6, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Gopalkrishna", "Panchal", 19, 7302343448, "Gopalkrishna.Panchal@Panchal.com", 1, 2, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Gopalkrishna", "Kari", 19, 4259981723, "Gopalkrishna.Kari@Kari.com", 1, 11, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Archana", "Bava", 19, 1576063016, "Archana.Bava@Bava.com", 1, 11, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Damayanti", "Barman", 17, 9353246532, "Damayanti.Barman@Barman.com", 1, 6, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Hari", "Rastogi", 19, 4416364587, "Hari.Rastogi@Rastogi.com", 1, 1, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jarita", "Balan", 18, 1253467787, "Jarita.Balan@Balan.com", 1, 1, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Lakshman", "Sinha", 19, 5963691263, "Lakshman.Sinha@Sinha.com", 1, 1, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Nitya", "Behl", 17, 6621827878, "Nitya.Behl@Behl.com", 1, 5, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Deva", "Hari", 18, 6805597633, "Deva.Hari@Hari.com", 1, 5, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Ishvara", "Bhasin", 19, 7765648914, "Ishvara.Bhasin@Bhasin.com", 1, 6, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Manjula", "Taneja", 18, 3290884009, "Manjula.Taneja@Taneja.com", 1, 2, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Mira", "Munshi", 19, 6826863122, "Mira.Munshi@Munshi.com", 1, 11, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jayanta", "Dhar", 19, 3112409336, "Jayanta.Dhar@Dhar.com", 1, 5, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Nitia", "Goda", 19, 5803730456, "Nitia.Goda@Goda.com", 1, 8, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Neelam", "Bains", 19, 7533282947, "Neelam.Bains@Bains.com", 1, 10, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Leka", "Sharma", 18, 9594620837, "Leka.Sharma@Sharma.com", 1, 11, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kavi", "Dhingra", 18, 4318852916, "Kavi.Dhingra@Dhingra.com", 1, 10, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Murali", "Mander", 17, 2204851190, "Murali.Mander@Mander.com", 1, 5, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Mahinder", "Lad", 18, 2748720654, "Mahinder.Lad@Lad.com", 1, 4, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Chandra", "Dutt", 19, 5093084410, "Chandra.Dutt@Dutt.com", 1, 1, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Carma", "Kari", 19, 6124019926, "Carma.Kari@Kari.com", 1, 2, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Gita", "Bumb", 18, 8840906368, "Gita.Bumb@Bumb.com", 1, 3, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Djagarajen", "Wadhwa", 18, 5891771368, "Djagarajen.Wadhwa@Wadhwa.com", 1, 2, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Gauri", "Mandal", 18, 1550035292, "Gauri.Mandal@Mandal.com", 1, 6, 5);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Mukesha", "Murthy", 17, 4566458039, "Mukesha.Murthy@Murthy.com", 1, 6, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kishore", "Munshi", 17, 5696039400, "Kishore.Munshi@Munshi.com", 1, 2, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Devayanne", "Bhardwaj", 17, 1335506385, "Devayanne.Bhardwaj@Bhardwaj.com", 1, 8, 6);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kishore", "Gola", 19, 2528016429, "Kishore.Gola@Gola.com", 1, 5, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Anant", "Garg", 19, 7565325358, "Anant.Garg@Garg.com", 1, 9, 2);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Neela", "Varghese", 19, 4304100566, "Neela.Varghese@Varghese.com", 1, 4, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Nitika", "Sarma", 19, 2616234631, "Nitika.Sarma@Sarma.com", 1, 7, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Anandi", "Dua", 17, 1071409124, "Anandi.Dua@Dua.com", 1, 3, 1);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Gotama", "Brar", 17, 8932243377, "Gotama.Brar@Brar.com", 1, 1, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Madhava", "Chaudhari", 17, 4032163129, "Madhava.Chaudhari@Chaudhari.com", 1, 10, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kessavaperoumal", "Sharaf", 18, 2617098999, "Kessavaperoumal.Sharaf@Sharaf.com", 1, 11, 3);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Kesaven", "Dalal", 19, 6365615275, "Kesaven.Dalal@Dalal.com", 1, 2, 4);
+
+INSERT INTO players(first_name, last_name, age, phone_number, email, active, section_type, leadership_type)
+ VALUES ("Jayanta", "Oak", 19, 5681183576, "Jayanta.Oak@Oak.com", 1, 6, 6);
